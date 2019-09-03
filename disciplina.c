@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include "disciplina.h"
-
+// Teste de commit
 
 DISCIPLINA* Cadastrar_disciplina(DISCIPLINA *p , int *sizeD){
     system("clear");
